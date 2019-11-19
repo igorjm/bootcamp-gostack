@@ -1,6 +1,9 @@
 ##Comandos Sequelize
 
 Cria Migration
+$ yarn sequelize migration:create --name=name
+
+Inicia Migration
 $ yarn sequelize db:migrate
 
 Desfaz ultima Migration
