@@ -19,7 +19,7 @@ export default function Cart() {
         <tbody>
           <tr>
             <td>
-              <img src="" title="" />
+              <img src="" title="" alt=""/>
             </td>
             <td>
               <strong>Titulo</strong>
