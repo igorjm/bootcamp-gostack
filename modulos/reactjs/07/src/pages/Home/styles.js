@@ -2,15 +2,15 @@ import styled from 'styled-components';
 import { darken } from 'polished';
 
 export const ProductList = styled.ul`
-  display: gird;
-  grid-template-colums: repeat(3, 1fr);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
   list-style: none;
 
   li {
     display: flex;
     flex-direction: column;
-    backgorund: #fff;
+    background: #fff;
     border-radius: 4px;
     padding: 20px;
 
